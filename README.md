@@ -10,7 +10,7 @@ go의 기본 문법 모음
 
 ```bash
 cd example
-run main.go
+go run main.go
 ```
 
 ### 기여 방법
